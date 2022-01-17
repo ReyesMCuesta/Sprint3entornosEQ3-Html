@@ -1,0 +1,13 @@
+0 - cuenta testlodge	4	/	4	
+1 - introducción ( 7 ppipios)	3,5	/	4	bien, se podría reducir un poco la cantidad de texto
+2 - tipos pruebas esquema / definicion tipos (1 diapo por cada) / coste prueba por nivel/ coste por fase	5	/	8	falta detallar la definición de que es cada tipo de prueba (se pedía una diapositiva por cada tipo de prueba)
+3 - definicion / principios /ventajas 	5,5	/	6	falta lo que debe incluir un documento de pruebas agile
+4 - plan pruebas	5	/	6	
+5 - doc requisitos	4	/	4	
+6 - unitarias	14	/	18	en añadir equipo, falta añadir los casos del número de carácteres mínimo, es decir de menos de 4 carácteres, y de igual a 4 carácteres. Además de un nombre con carácteres numéricos. El ránking debéis probar también con valor menor a 0, igual a 0, igual a 10 y mayor que 10, es decir los valores límites. En añadir jugador, igual también os faltan los casos de menos de 4 carácteres e igual a 4. Interesante el caso que habéis añadido de un nombre ya existente. El campo edad está completo bien, y en idioma está original el caso de elegir 2 casos de prueba. Las de asignar equipo sí están muy completas y tienen casos interesantes como el que ya esté en otro equipo.
+7 - aceptación	15	/	15	está muy completa y con casos concretos diferentes buen trabajo
+8 - regresión	12	/	12	
+9 - implementación formularios	15	/	15	
+10 - proyecto java	6	/	6	
+11 - ejecución pruebas	12	/	12	
+	101	/	110	
